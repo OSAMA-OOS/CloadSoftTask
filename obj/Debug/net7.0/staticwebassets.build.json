@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "leQQoEIf/FM2Zjvb5jljy404URy3+0I84rPKsKfDj7w=",
+  "Hash": "EwAPlYIVmtLf2Nnrl1TNicFrvEFSyIyeNmYL0HqkUf0=",
   "Source": "Employee Documents",
   "BasePath": "_content/Employee Documents",
   "Mode": "Default",
@@ -1375,6 +1375,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\a5f5890b-dafc-4cf4-8548-61db479db6be_download.jpg"
+    },
+    {
+      "Identity": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\a8f2f280-2791-4b80-8509-89fb277813bd_Screenshot (83).png",
+      "SourceId": "Employee Documents",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\",
+      "BasePath": "_content/Employee Documents",
+      "RelativePath": "uploads/a8f2f280-2791-4b80-8509-89fb277813bd_Screenshot (83).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a8f2f280-2791-4b80-8509-89fb277813bd_Screenshot (83).png"
     },
     {
       "Identity": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\c5136e2b-6ebf-449c-81c8-fcdaf86c5943_Screenshot (84).png",
