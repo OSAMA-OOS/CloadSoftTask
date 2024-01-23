@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Employee Documents.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Employee Documents.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\0075b522-29e3-45d6-918c-0853ab7556fb_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0075b522-29e3-45d6-918c-0853ab7556fb_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\04b45b82-0413-4f0e-8a61-5f8a5f823181_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\04b45b82-0413-4f0e-8a61-5f8a5f823181_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\0bba65cb-ea5c-46bf-aa6d-81c5f5296303_Summry E.mirhan.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0bba65cb-ea5c-46bf-aa6d-81c5f5296303_Summry E.mirhan.pdf"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\0cff2928-3c30-45d1-8066-a11ea634cb44_Screenshot (85).png",
+      "PackagePath": "staticwebassets\\uploads\\0cff2928-3c30-45d1-8066-a11ea634cb44_Screenshot (85).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\0dac4306-3dcd-49b2-8b2e-c592ef68f329_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0dac4306-3dcd-49b2-8b2e-c592ef68f329_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\16ac57ad-20e6-45bf-bd1b-61a9853eb02a_Screenshot (83).png",
+      "PackagePath": "staticwebassets\\uploads\\16ac57ad-20e6-45bf-bd1b-61a9853eb02a_Screenshot (83).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\25cb96c3-5f2f-4202-86b8-fac38db151ad_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\25cb96c3-5f2f-4202-86b8-fac38db151ad_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\2679741b-d6de-48b3-a9f0-0d9eefc8ff56_Screenshot (83).png",
+      "PackagePath": "staticwebassets\\uploads\\2679741b-d6de-48b3-a9f0-0d9eefc8ff56_Screenshot (83).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\3a1f7c66-3cae-41d9-9edc-5a867b091f3b_Screenshot (87).png",
+      "PackagePath": "staticwebassets\\uploads\\3a1f7c66-3cae-41d9-9edc-5a867b091f3b_Screenshot (87).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\3b362f04-e0e8-4d05-823c-35011418389e_Screenshot (83).png",
+      "PackagePath": "staticwebassets\\uploads\\3b362f04-e0e8-4d05-823c-35011418389e_Screenshot (83).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\6f7f3c28-b412-4227-b8bc-579a854a015f_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6f7f3c28-b412-4227-b8bc-579a854a015f_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\6f95ac3c-7eb8-4812-b08f-52c5c1977f2c_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6f95ac3c-7eb8-4812-b08f-52c5c1977f2c_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\7a22130b-3c9d-4d10-8252-52159f39fa27_Screenshot (83).png",
+      "PackagePath": "staticwebassets\\uploads\\7a22130b-3c9d-4d10-8252-52159f39fa27_Screenshot (83).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\87abcc8a-c3b4-44aa-b2d3-4f7a813c418d_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\87abcc8a-c3b4-44aa-b2d3-4f7a813c418d_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\887c6c9e-a799-4f63-9ca0-8d65408c1ce7_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\887c6c9e-a799-4f63-9ca0-8d65408c1ce7_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\9a988d21-4d8e-4537-b9c3-062b65317be9_Screenshot (83).png",
+      "PackagePath": "staticwebassets\\uploads\\9a988d21-4d8e-4537-b9c3-062b65317be9_Screenshot (83).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\a5486682-9777-479a-94a4-840805497fe4_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a5486682-9777-479a-94a4-840805497fe4_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\a5f5890b-dafc-4cf4-8548-61db479db6be_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a5f5890b-dafc-4cf4-8548-61db479db6be_download.jpg"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\c5136e2b-6ebf-449c-81c8-fcdaf86c5943_Screenshot (84).png",
+      "PackagePath": "staticwebassets\\uploads\\c5136e2b-6ebf-449c-81c8-fcdaf86c5943_Screenshot (84).png"
+    },
+    {
+      "Id": "D:\\Jop Task\\Cloud Soft 5\\Employee Documents\\wwwroot\\uploads\\dfffa6e8-533a-4f58-a579-b289e84a62fa_Summry E.mirhan.pdf",
+      "PackagePath": "staticwebassets\\uploads\\dfffa6e8-533a-4f58-a579-b289e84a62fa_Summry E.mirhan.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Employee Documents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Employee Documents.props",
+      "PackagePath": "build\\Employee Documents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Employee Documents.props",
+      "PackagePath": "buildMultiTargeting\\Employee Documents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Employee Documents.props",
+      "PackagePath": "buildTransitive\\Employee Documents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
